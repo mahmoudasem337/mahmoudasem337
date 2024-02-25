@@ -1,6 +1,6 @@
 ##### Hi, I'm Mahmoud:
 
-- 🎓Information Technology Student at Egyptian E-Learning University
+- 🎓Information Technology Student at **Egyptian E-Learning University**
 
 - 👯 I’m looking to collaborate on **Opensource Backend Projects**
 
