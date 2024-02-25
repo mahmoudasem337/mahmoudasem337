@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mahmoud Asem</h1>
 <h3 align="center">A Fascinated Coder & Information Technology Student</h3>
