@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mahmoudasem337/mahmoudasem337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mahmoud Asem</h1>
+<h3 align="center">A Fascinated Coder & Information Technology Student</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandabbakuti" alt="salmandabbakuti" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying for a Information Technology degree at University **Egyptian E-Learning University**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Opensource Backend Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mahmoudasem337](https://github.com/mahmoudasem337)
+
+- 📫 How to reach me **ma9458596@gmail.cofm**
+
+- ⚡ Fun fact **I know all Programming Memes🤩**
+
